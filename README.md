@@ -1,6 +1,6 @@
 # Hi there, I'm Carlos 👋
 
-I'm a **Systems Engineering student** from Tamaulipas, Mexico 🇲🇽, with a strong interest in **backend development** and problem-solving through code.
+I'm a **Systems Engineering student at the Technological Institute of Mexico (TecNM)** from Tamaulipas, Mexico 🇲🇽, with a strong interest in **backend development** and problem-solving through code.
 
 I enjoy building systems that make sense — structured, logical, and useful. I'm especially motivated by projects that simulate real-world scenarios, where code becomes a tool to solve actual problems.
 
